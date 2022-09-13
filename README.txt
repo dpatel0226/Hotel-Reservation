@@ -1,0 +1,6 @@
+﻿I will make my project ask the guest if they have a reservation. I’m going to name the hotel The Pier Hotel and have an intro when the code starts. If they do have a reservation it will look up the name that the guest provides and provide the guest with the room type they reserved and room number. The hotel will offer 3 different room types. Double queen, king suite, and presidential suite. This hotel will only have 15 rooms in total. 5 of those rooms will be double queen, another 5 will be king suite, and the last 5 will be the presidential suite. A guest can book a reservation but the reservation can only be taken if the room type requested is still available. Python will have store each guest’s email, name, and phone number. If a guest books a reservation it will need to be added and stored to the JSON file. 
+                                        
+The room number will be:
+* Room numbers #1-5 will be double queen rooms 
+* Room numbers #6-10 will be kind suites
+* Room numbers #11-15 will be presidential suites
